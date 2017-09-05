@@ -2,4 +2,4 @@
 
 Meu Primeiro Projeto
 
-Comecando a programar literalmento do zero.
+Programando literalmento do zero.
